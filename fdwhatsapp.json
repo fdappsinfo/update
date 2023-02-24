@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "version": "DELTA YOWA v5.0.0b2",
+      "code": 57,
+      "url": "https://bit.ly/DELTA500b2",
+      "changelog": "- Add Transparent Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
+    }
+  ]
+}
